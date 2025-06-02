@@ -34,7 +34,7 @@ header {
 }
 
 nav .menu {
-  list-style: none;
+  list-style: square;
   display: flex;
   gap: 20px;
   margin: 0;
